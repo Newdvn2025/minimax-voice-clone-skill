@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+**/voices.json
+**/output/
+**/input/
+**/__pycache__/
+*.py[cod]
+.DS_Store
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.mp4
+*.log
